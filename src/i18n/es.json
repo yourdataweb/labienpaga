@@ -1,0 +1,199 @@
+{
+  "locale": "es",
+  "htmlLang": "es",
+  "ogLocale": "es_ES",
+  "pathPrefix": "../",
+  "countryName": "España",
+  "meta": {
+    "title": "La Bien Pagá · Restaurante de cocina de mercado en Vilanova i la Geltrú",
+    "description": "Cocina de mercado y menú diario en la Plaça Soler i Carbonell, 5, Vilanova i la Geltrú. Producto fresco, trato familiar y terraza. Reserva por teléfono o WhatsApp: 663 43 28 00.",
+    "ogAlt": "La Bien Pagá, restaurante de cocina de mercado en Vilanova i la Geltrú"
+  },
+  "nav": {
+    "about": "El restaurante",
+    "menu": "Cocina",
+    "reviews": "Opiniones",
+    "contact": "Contacto",
+    "skip": "Ir al contenido principal",
+    "label": "Navegación principal"
+  },
+  "hero": {
+    "eyebrow": "Vilanova i la Geltrú · Plaça Soler i Carbonell",
+    "title": "Cocina de mercado, hecha cada día",
+    "subtitle": "Un restaurante de plaza donde el menú cambia con lo que llega al mercado. Cocina honesta, raciones generosas y un trato que hace que vuelvas.",
+    "ctaPrimary": "Ver cómo llegar",
+    "ctaSecondary": "Llamar al restaurante",
+    "viewOnGoogle": "Ver ficha en Google",
+    "ratingLabel": "valoración media",
+    "ratingReviews": "opiniones",
+    "point1": "Menú diario con producto de mercado",
+    "point2": "Terraza en la plaza, al aire libre",
+    "point3": "Reservas por teléfono y WhatsApp",
+    "photoAlt": "foto del restaurante",
+    "photoCredit": "Foto"
+  },
+  "about": {
+    "eyebrow": "El restaurante",
+    "title": "Una casa de comidas de plaza",
+    "lead": "La Bien Pagá es un restaurante de cocina de mercado en la Plaça Soler i Carbonell, en el centro de Vilanova. El menú del día es el centro de todo: se escribe cada mañana con lo que hay en el mercado.",
+    "body1": "La cocina es directa y sin artificios: producto fresco, elaboraciones clásicas y raciones pensadas para compartir. El menú de mediodía, con primero, segundo, postre y bebida, es lo que trae a la gente del barrio cada día.",
+    "body2": "El comedor es cálido y familiar, y en verano las mesas salen a la plaza. Cabe tanto una comida de trabajo como una sobremesa larga en familia.",
+    "statRatingLabel": "Valoración",
+    "statReviewsLabel": "Opiniones",
+    "statTypeLabel": "Cocina",
+    "statTypeValue": "De mercado",
+    "statPlaceLabel": "Ubicación",
+    "statRating": "en Google",
+    "statReviews": "opiniones verificadas",
+    "statType": "cocina de mercado",
+    "statPlace": "en la plaza"
+  },
+  "features": {
+    "eyebrow": "Servicios",
+    "title": "Todo lo que necesitas saber antes de venir",
+    "items": {
+      "dineIn": {
+        "title": "Comer en el local",
+        "text": "Servicio en sala y en la terraza de la plaza."
+      },
+      "reserve": {
+        "title": "Se recomienda reservar",
+        "text": "Acepta reservas, sobre todo para grupos y fines de semana."
+      },
+      "outdoor": {
+        "title": "Terraza exterior",
+        "text": "Mesas al aire libre en la plaça Soler i Carbonell."
+      },
+      "groups": {
+        "title": "Ideal para grupos",
+        "text": "Mesas grandes y platos para compartir."
+      },
+      "kids": {
+        "title": "Apto para familias",
+        "text": "Ambiente tranquilo, también para comer con niños."
+      },
+      "dogs": {
+        "title": "Admite perros",
+        "text": "Puedes venir con el perro, también en la terraza."
+      },
+      "payment": {
+        "title": "Pago con tarjeta",
+        "text": "Tarjeta de crédito y débito, pago sin contacto y efectivo."
+      },
+      "access": {
+        "title": "Accesible",
+        "text": "Entrada y asientos adaptados para silla de ruedas."
+      },
+      "parking": {
+        "title": "Aparcamiento cerca",
+        "text": "Aparcamiento de pago y zona azul al lado."
+      }
+    }
+  },
+  "menu": {
+    "eyebrow": "Cocina",
+    "title": "Qué sale de la cocina",
+    "lead": "El menú del día es el protagonista, y cambia cada semana. Estos son los platos que más se repiten.",
+    "items": {
+      "menu": {
+        "title": "Menú del día",
+        "text": "Primero, segundo, postre y bebida. Se escribe cada mañana con lo que hay en el mercado."
+      },
+      "tapas": {
+        "title": "Tapas para empezar",
+        "text": "Para picar antes del menú o para una comida ligera."
+      },
+      "fish": {
+        "title": "Pescado y marisco",
+        "text": "De la lonja, elaborado sencillo para que se note el producto."
+      },
+      "meat": {
+        "title": "Carnes a la brasa",
+        "text": "Cortes bien hechos, con guarnición de temporada."
+      },
+      "dessert": {
+        "title": "Postres caseros",
+        "text": "Hechos en casa, para cerrar el menú como toca."
+      },
+      "coffee": {
+        "title": "Café y copa",
+        "text": "Para alargar la sobremesa en la plaza."
+      }
+    },
+    "note": "Sin precios ni horarios en esta página: confirma el menú del día y la mesa por teléfono."
+  },
+  "reviews": {
+    "eyebrow": "Opiniones",
+    "title": "Lo que dicen quienes ya han comido",
+    "lead": "Extractos de opiniones publicadas en Google por clientes del restaurante.",
+    "starsLabel": "{n} de 5 estrellas",
+    "reviewsWord": "opiniones",
+    "onGoogle": "en Google",
+    "readAll": "Leer todas las opiniones",
+    "items": {
+      "r1": {
+        "text": "¡Nos encantó! Menú de tres platos por 14,99 €, una relación calidad-precio increíble. Todo buenísimo y el servicio muy amable.",
+        "author": "John Prendergast",
+        "meta": "Hace 2 semanas",
+        "stars": 5
+      },
+      "r2": {
+        "text": "La comida estaba deliciosa, pero lo que hizo especial la experiencia fue el personal: atentos, amables y acogedores. Ambiente fantástico, volvería sin duda.",
+        "author": "Mohamed Taha",
+        "meta": "Hace 2 meses",
+        "stars": 5
+      },
+      "r3": {
+        "text": "Si quieres comida típica de la zona, es una gran elección. Los dueños son una maravilla, tanto por el trato como por la calidad de los platos. Mejor reservar antes.",
+        "author": "sitgesgaymenchorus",
+        "meta": "Hace 2 años",
+        "stars": 5
+      },
+      "r4": {
+        "text": "La comida es increíble, de las mejores que he probado en la zona. El menú tiene muy buena relación calidad-precio.",
+        "author": "Analia Mendonça",
+        "meta": "Hace un año",
+        "stars": 5
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Dónde estamos",
+    "lead": "En la Plaça Soler i Carbonell, en el centro de Vilanova i la Geltrú. Llama o escribe por WhatsApp para reservar mesa.",
+    "addressLabel": "Dirección",
+    "phoneLabel": "Teléfono",
+    "phoneNote": "Llama o escribe por WhatsApp",
+    "webLabel": "Reservas",
+    "mapsLabel": "Abrir en Google Maps",
+    "mapTitle": "Mapa con la ubicación de La Bien Pagá en Vilanova i la Geltrú",
+    "mapNote": "El mapa solo se carga si aceptas las cookies de terceros.",
+    "mapLoad": "Cargar el mapa",
+    "plusCodeLabel": "Plus Code",
+    "whatsappLabel": "Escribe por WhatsApp"
+  },
+  "footer": {
+    "tagline": "Cocina de mercado en Vilanova i la Geltrú.",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto",
+    "legalTitle": "Aviso",
+    "legal": "Esta página es una ficha informativa del restaurante. Para reservas y cambios en el menú, contacta directamente con el establecimiento.",
+    "rights": "Todos los derechos reservados.",
+    "backToTop": "Volver arriba",
+    "siteLink": "Reservas"
+  },
+  "cookies": {
+    "text": "Usamos cookies técnicas para recordar tu elección. Si aceptas, además medimos las visitas con Google Analytics y cargamos el mapa de Google.",
+    "accept": "Aceptar",
+    "reject": "Solo lo esencial",
+    "policy": "Más información"
+  },
+  "a11y": {
+    "langSwitch": "Cambiar de idioma",
+    "menuToggle": "Abrir menú de navegación",
+    "mapPlaceholder": "Mapa de Google Maps"
+  },
+  "brand": {
+    "sub": "Vilanova i la Geltrú"
+  }
+}

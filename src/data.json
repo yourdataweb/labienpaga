@@ -1,0 +1,98 @@
+{
+  "slug": "labienpaga",
+  "name": "La Bien Pagá",
+  "legalName": "Restaurant La Bien Pagá",
+  "schemaType": "Restaurant",
+  "primaryType": "restaurant",
+  "street": "Plaça Soler i Carbonell, 5",
+  "postalCode": "08800",
+  "city": "Vilanova i la Geltrú",
+  "region": "Barcelona",
+  "country": "ES",
+  "latitude": 41.2235035,
+  "longitude": 1.7243039999999998,
+  "phoneNational": "663 43 28 00",
+  "phoneE164": "+34663432800",
+  "phoneIsMobile": true,
+  "website": "",
+  "rating": 4.6,
+  "ratingCount": 1022,
+  "plusCode": "6PFF+CP Vilanova i la Geltrú, Spain",
+  "mapsPlaceUri": "https://maps.google.com/?cid=3513977893940388543&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "mapsReviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x12a386fcb1c0196f:0x30c42846d4e462bf!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "mapsDirectionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x12a386fcb1c0196f:0x30c42846d4e462bf!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "servesCuisine": [
+    "Mediterranean",
+    "Spanish",
+    "Tapas"
+  ],
+  "acceptsReservations": true,
+  "dineIn": true,
+  "takeout": true,
+  "delivery": false,
+  "outdoorSeating": true,
+  "goodForGroups": true,
+  "goodForChildren": true,
+  "allowsDogs": true,
+  "servesDessert": true,
+  "servesCoffee": true,
+  "acceptsCards": true,
+  "wheelchairAccessible": true,
+  "parking": [
+    "paid_parking_lot",
+    "paid_street_parking"
+  ],
+  "reviews": [
+    {
+      "author": "John Prendergast",
+      "text": "Loved it! 3 course menu €14.99 amazing value\n\nTasty and great quality with very friendly service",
+      "rating": 5.0,
+      "language": "en",
+      "relative": "2 weeks ago"
+    },
+    {
+      "author": "Mohamed Taha",
+      "text": "Absolutely loved this place! The food was delicious, but what really made the experience special was the staff. Our waiter was incredibly kind, attentive, and welcoming, and everyone working there made us feel genuinely well looked after. Amazing hospitality and such a lovely atmosphere. Definitely a place I’d happily come back to!",
+      "rating": 5.0,
+      "language": "en",
+      "relative": "2 months ago"
+    },
+    {
+      "author": "sitgesgaymenchorus",
+      "text": "If you want typical food from the area, it's a great choice, before it's massified by tourists. The owners are a wonder in attention but especially in the quality of the dishes and chef's love to make them. I'd book in advance ah and don't make dinner schedules, just noon.",
+      "rating": 5.0,
+      "language": "en",
+      "relative": "2 years ago"
+    },
+    {
+      "author": "Analia Mendonça",
+      "text": "The food is amazing, one of the Bests I have tried in the area. The menu has a great price and everything is delicious. The owner is a very gentle Woman ❤️🥰",
+      "rating": 5.0,
+      "language": "en",
+      "relative": "2 years ago"
+    },
+    {
+      "author": "Michaël Bonnet",
+      "text": "Excellent restaurant, very nice dishes and friendly employees, I recommend.",
+      "rating": 5.0,
+      "language": "en",
+      "relative": "a year ago"
+    }
+  ],
+  "placeId": "ChIJbxnAsfyGoxIRv2Lk1EYoxDA",
+  "heroPhoto": "assets/img/hero-photo.jpg",
+  "photoCredit": "Restaurante La Bien Pagá",
+  "photoCreditUrl": "https://maps.google.com/maps/contrib/108935569555104353866",
+  "sourceFile": "vilanova_i_la_geltru_catalonia_spain.csv",
+  "siteDomain": "vilanovailageltru.info",
+  "redirects": {
+    "ca": "/"
+  },
+  "manifestTheme": "#3a1f2b",
+  "manifestBackground": "#fdf8f3",
+  "priceRange": "€€",
+  "accent": "#3a1f2b",
+  "deep": "#2a1220",
+  "gold": "#c99a3f",
+  "light": "#d9a8ab"
+}
