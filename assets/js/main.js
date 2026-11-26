@@ -109,6 +109,8 @@
       var btn = e.target.closest("[data-cookie]");
       if (!btn) return;
       var choice = btn.getAttribute("data-cookie");
+      // Analytics shares this decision: nothing loads from Google before it.
+      if (window.__analyticsConsent) window.__analyticsConsent(choice === "accept");
       store(choice);
       hideBar();
       if (choice === "accept") loadMap();
