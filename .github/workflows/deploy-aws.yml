@@ -109,8 +109,11 @@ jobs:
           missing=0
           keys="index.html sitemap.xml robots.txt"
           for f in */index.html; do keys="$keys $f"; done
-          for key in $keys \
-                     assets/css/styles.css assets/js/app.js \
+          # Derive the asset keys from the build output so a site whose script or
+          # stylesheet has a different name is not reported as missing.
+          css=$(grep -oE 'assets/css/[a-z0-9._-]+\.css' index.html | head -1)
+          js=$(grep -oE 'assets/js/[a-z0-9._-]+\.js' index.html | head -1)
+          for key in $keys ${css:-assets/css/styles.css} ${js:-assets/js/app.js} \
                      assets/photos/handover.png; do
             size=$(aws s3api head-object --bucket "$S3_BUCKET" --key "$S3_PREFIX/$key" \
                      --query 'ContentLength' --output text 2>/dev/null || echo MISSING)
