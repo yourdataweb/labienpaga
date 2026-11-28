@@ -10,7 +10,7 @@ Three languages, server-rendered HTML per locale, no framework and no runtime de
 - Spanish: https://labienpaga.vilanovailageltru.info/es/
 - English: https://labienpaga.vilanovailageltru.info/en/
 
-## Structure
+## Page structure
 
 ```
 index.html                 Catalan (default locale)
@@ -30,6 +30,26 @@ assets/js/main.js          mobile navigation, scroll reveal, cookie consent, laz
 assets/fonts/              self-hosted Fraunces and Inter (woff2 subsets)
 assets/img/                logo, icons, hero photo and artwork, OG image
 assets/photos/handover.png handover card with a QR to the live site
+```
+
+## Repo layout
+
+```
+index.html                 Catalan (default locale)
+es/index.html              Spanish
+en/index.html              English
+src/template.html          the single template the build renders
+src/data.json              business data (address, phone, coordinates, rating)
+src/locales.json           locale list, which one is default, hreflang codes
+src/i18n/{ca,es,en}.json   all copy, per locale
+scripts/                   build, assets, handover card, verification
+assets/css/styles.css      site styles
+assets/css/components.css  shared UI (vendored, pinned in src/components.lock)
+assets/js/                 shared behaviour (vendored) + site-local code
+assets/fonts/              self-hosted woff2 subsets
+assets/img/                mark, icons, hero photo, OG image
+assets/photos/             handover card and postcards
+.github/workflows/         deploy to S3 on push to main
 ```
 
 ## Build
